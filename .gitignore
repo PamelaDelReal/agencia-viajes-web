@@ -1,0 +1,14 @@
+# Archivos temporales
+*.log
+*.tmp
+
+# Directorios comunes
+vendor/
+node_modules/
+
+# Configuraciones del entorno
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
